@@ -1,0 +1,46 @@
+
+.container{
+  max-width: 720px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0 14px;
+}
+
+.logo{
+  max-width: 227px;
+}
+
+.title{
+  color: #FFF;
+  text-align: center;
+  margin: 24px 0;
+}
+
+.form label{
+  color: #FFF;
+  font-size: 20px;
+}
+
+.input{
+  width: 100%;
+  height: 48px;
+  border: 0;
+  border-radius: 4px;
+  font-size: 20px;
+  padding: 0 14px;
+  margin-bottom: 16px;
+  margin-top: 8px;
+}
+
+.button{
+  width: 100%;
+  height: 48px;
+  background-color: #119cea;
+  border: 0;
+  border-radius: 4px;
+  color: #FFF;
+  font-size: 22px;
+  font-weight: bold;
+}
